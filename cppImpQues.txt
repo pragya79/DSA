@@ -1,0 +1,23 @@
+Give detailed interview ready ansers for the following:
+1. Is cpp platform independent
+2. why cpp?
+3. struct vs classes
+4. enum in cpp
+5. using namespace std, explain every keyword meaning
+6. what is stl
+7. mallac, calloc, realloc
+8. refence vs pointer
+9. double pointer
+10. smart pointer with example
+11. codes of basic cpp interview questions like:
+gcd, lcm, fibonacci, pascal triangle, star patterns, other math based codes, reverse a number
+factorial without recursion
+12. can we overload a destructor 
+13. codes of:
+stack using array, queue and linkedList
+queue using stack, array and linkedlist
+14.How to make circular linked list
+15. Doubly linked list and uses
+16. Merge sort , quick sort , radix sort, count sort their codes and algorithm 
+17. Heap sort
+18. Heapify
